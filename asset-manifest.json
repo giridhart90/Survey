@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Survey/static/css/main.b4022b4e.chunk.css",
+    "main.js": "/Survey/static/js/main.d0fd8abc.chunk.js",
+    "main.js.map": "/Survey/static/js/main.d0fd8abc.chunk.js.map",
+    "runtime-main.js": "/Survey/static/js/runtime-main.df0df2f4.js",
+    "runtime-main.js.map": "/Survey/static/js/runtime-main.df0df2f4.js.map",
+    "static/css/2.d98961f1.chunk.css": "/Survey/static/css/2.d98961f1.chunk.css",
+    "static/js/2.9f252ad8.chunk.js": "/Survey/static/js/2.9f252ad8.chunk.js",
+    "static/js/2.9f252ad8.chunk.js.map": "/Survey/static/js/2.9f252ad8.chunk.js.map",
+    "index.html": "/Survey/index.html",
+    "precache-manifest.f76d56ff9fbff41182fd47bb2489fd74.js": "/Survey/precache-manifest.f76d56ff9fbff41182fd47bb2489fd74.js",
+    "service-worker.js": "/Survey/service-worker.js",
+    "static/css/2.d98961f1.chunk.css.map": "/Survey/static/css/2.d98961f1.chunk.css.map",
+    "static/css/main.b4022b4e.chunk.css.map": "/Survey/static/css/main.b4022b4e.chunk.css.map",
+    "static/js/2.9f252ad8.chunk.js.LICENSE.txt": "/Survey/static/js/2.9f252ad8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df0df2f4.js",
+    "static/css/2.d98961f1.chunk.css",
+    "static/js/2.9f252ad8.chunk.js",
+    "static/css/main.b4022b4e.chunk.css",
+    "static/js/main.d0fd8abc.chunk.js"
+  ]
+}
